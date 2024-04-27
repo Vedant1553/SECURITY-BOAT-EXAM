@@ -1,0 +1,20 @@
+A1
+Design a distributed application using RPC for remote computation where client submitsan integer value
+to the server and server calculates factorial and returns the result to the client.
+
+A2
+Design a distributed application using RMI for remote computation where 
+client submits two strings to the server and server returns the
+concatenation of the given strings.
+
+A3
+Design a distributed application using Map Reduce under Hadoop for: a)
+Character counting in a given text file. b) Counting no. of occurrences of
+every word in a given text file.
+
+A4
+Design and implement Union, Intersection, Complement, and Difference operations on
+fuzzy sets. Create fuzzy relations by the Cartesian product of any two fuzzy sets and perform max-min
+composition on any two fuzzy relations.
+
+A5
